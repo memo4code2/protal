@@ -26,7 +26,7 @@
     <main>
         <section class="hero py-5 position-relative">
             <div class="hero-illustration d-none d-lg-block">
-                <img src="assets/photo1.png" alt="Support illustration">
+                <!-- <img src="assets/photo1.png" alt="Support illustration"> -->
             </div>
             <div class="container">
                 <div class="row align-items-center">
